@@ -5,7 +5,7 @@ For you to meet me there must mean something. It might be fate's desire. Anyway,
 Name | Description | Status | Purpose
 --- | --- | --- | ---
 Anthia's Ark | A game about collecting bug and bring them to objectives.<br>Link to Game: [Anthia's Ark](https://namecdream.itch.io/anthias-ark) | Completed | For Game Jam Plus 2024
-Mathemagician | A game about using Math's Card to achieve certain points.<br> Link to Game: [Mathemagician](https://namecdream.itch.io/mathemagician) | On Development | Hobby
+Mathemagician | A game about using Math's Card to achieve certain points.<br> Link to Game: [Mathemagician](https://namecdream.itch.io/mathemagician) | Prototype | Hobby
 Guild Master | A game about being a guild master to manage adventurers to embark on some extraordinary quests.<br> Link to Game: [Guild Master](https://namecdream.itch.io/guild-master) | Prototype | Hobby
 
 ## Other Projects 🎮
