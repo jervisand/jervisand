@@ -19,7 +19,7 @@ Rocket Escape | A game about a cute alien trying to survive the attack of mankin
 ## Role ⚒️
 - Game Designer
 - Game Programmer
-- AI Bot Designer (Developed AI for board game bots)
+- Software Engineer
 
 ## Fun Fact 🤔
 Do you know that this guy like Sherlock Holmes very much that he once gave a presentation about Sherlock Holmes's biography as a real person?
