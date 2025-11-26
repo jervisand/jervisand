@@ -15,6 +15,7 @@ Name | Description | Status | Purpose
 Power Kart Racing | An arcade racing game available only in "AyoMain!" platform.<br>Link to Game: [Power Kart Racing](https://play.google.com/store/apps/details?id=com.hit.powerkartracing) | Completed | For Nagih Games
 Jejakarta | A game about changing Jakarta to a better city by maintaining transportation.<br> Link to Game: [Jejakarta](https://play.google.com/store/apps/details?id=com.hit.jejakarta) | Completed | For Nagih Games
 Rocket Escape | A game about a cute alien trying to survive the attack of mankind.<br>Link to Game: [Rocket Escape](https://play.google.com/store/apps/details?id=com.hit.rocketescape) | Completed | For Nagih Games
+AyoMain | An android tv-based and web-based game platform for Nagih Games.<br> Link: [AyoMain](https://ayomain.games/home) | Completed | For Nagih Games
 
 ## Role ⚒️
 - Game Designer
